@@ -12,5 +12,7 @@ Wiki:
 https://www.opensour.cc/wiki/
 
 Credit:
+
 Eric Summers, opensour.cc LLC
+
 Louis T. Getterman IV, opensour.cc LLC
